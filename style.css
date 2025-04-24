@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
 
 :root {
-    --cor-de-fundo: #00172e;
+    --cor-de-fundo: #000f1d;
     --verde: #49e7ff;
     --branco: #FFFFFF;
     --botao-ativo: #00175c;
@@ -70,7 +70,6 @@ body {
     background-color: var(--texto-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
-    border-color: 2px solid var(--verde);
 }
 
 .aba-conteudo.ativo {
