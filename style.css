@@ -2,11 +2,11 @@
 
 :root {
     --cor-de-fundo: #18212a;
-    --verde: #51e8ff;
+    --verde: #49e7ff;
     --branco: #FFFFFF;
-    --botao-ativo: #37415e;
-    --botao-inativo: rgba(55, 67, 94, 0.5);
-    --texto-fundo: rgba(55, 64, 94, 0.3);
+    --botao-ativo: #00175c;
+    --botao-inativo: rgba(0, 26, 87, 0.5);
+    --texto-fundo: rgba(0, 20, 85, 0.3);
 }
 
 body {
